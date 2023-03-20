@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Blatt_5.dir/main.cpp.o CMakeFiles/Blatt_5.dir/MiniShell.cpp.o -o Blatt_5  -pthread -lm -lssl -lcrypto 

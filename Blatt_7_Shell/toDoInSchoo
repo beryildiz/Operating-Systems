@@ -1,0 +1,3 @@
+Binary von Myls in usr/bin packen
+
+mv myls /usr/bin
